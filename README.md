@@ -3,8 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mckoy-93" alt="mckoy-93" 
 
-![heavy lifting](https://i.etsystatic.com/16136317/r/il/95e489/2131467897/il_1588xN.2131467897_7rt2.jpg)
-                                                                                
+
+![women lifting]<img src= https://i.etsystatic.com/16136317/r/il/95e489/2131467897/il_1588xN.2131467897_7rt2.jpg width="200" height="200" />
+  
+![hacker]<img src= https://res.cloudinary.com/hjlz68xhm/image/upload/dpr_auto,q_auto,c_fill,f_png,w_900,h_700/f_auto,q_auto/mg9avenllqpermbz8edq.png width="200" height="200" />
+              
 - 🌱 I’m currently learning **higher order array methods**
 
 - 👯 I’m looking to collaborate on **...**
